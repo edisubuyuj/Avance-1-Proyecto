@@ -26,7 +26,7 @@ public class Calificaciones {
         promedio=totalCalificacion/4;
         
           System.out.println("el promedio de la calificaciones es:" + promedio);
-         //segunda prueba git de Promedio
+         //Tercera Prueba del Avance de Proyecto
     }
     
 }
